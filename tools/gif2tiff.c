@@ -312,8 +312,10 @@ readextension(void)
     char buf[255];
 
     (void) getc(infile);
-    while ((count = getc(infile)))
+    while ((count = getc(infile))) {
+        memset(buf, 0, count);
         fread(buf, 1, count, infile);
+    }
 }
 
 /*
