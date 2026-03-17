@@ -1,0 +1,566 @@
+[
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_aux.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_aux.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_aux.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_aux.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_close.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_close.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_close.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_close.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_codec.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_codec.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_codec.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_codec.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_color.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_color.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_color.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_color.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_compress.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_compress.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_compress.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_compress.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_dir.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_dir.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_dir.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_dir.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_dirinfo.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_dirinfo.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_dirinfo.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_dirinfo.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_dirread.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_dirread.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_dirread.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_dirread.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_dirwrite.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_dirwrite.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_dirwrite.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_dirwrite.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_dumpmode.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_dumpmode.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_dumpmode.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_dumpmode.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_error.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_error.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_error.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_error.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_extension.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_extension.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_extension.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_extension.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_fax3.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_fax3.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_fax3.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_fax3.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_fax3sm.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_fax3sm.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_fax3sm.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_fax3sm.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_flush.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_flush.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_flush.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_flush.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_getimage.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_getimage.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_getimage.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_getimage.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_hash_set.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_hash_set.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_hash_set.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_hash_set.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_jbig.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_jbig.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_jbig.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_jbig.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_jpeg.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_jpeg.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_jpeg.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_jpeg.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_jpeg_12.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_jpeg_12.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_jpeg_12.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_jpeg_12.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_lerc.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_lerc.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_lerc.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_lerc.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_luv.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_luv.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_luv.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_luv.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_lzma.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_lzma.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_lzma.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_lzma.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_lzw.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_lzw.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_lzw.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_lzw.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_next.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_next.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_next.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_next.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_ojpeg.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_ojpeg.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_ojpeg.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_ojpeg.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -DALLOW_TIFF_NON_EXT_ALLOC_FUNCTIONS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_open.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_open.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_open.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_open.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_packbits.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_packbits.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_packbits.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_packbits.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_pixarlog.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_pixarlog.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_pixarlog.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_pixarlog.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_predict.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_predict.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_predict.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_predict.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_print.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_print.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_print.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_print.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_read.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_read.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_read.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_read.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_strip.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_strip.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_strip.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_strip.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_swab.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_swab.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_swab.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_swab.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_thunder.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_thunder.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_thunder.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_thunder.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_tile.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_tile.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_tile.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_tile.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_version.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_version.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_version.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_version.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_warning.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_warning.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_warning.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_warning.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_webp.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_webp.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_webp.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_webp.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_write.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_write.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_write.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_write.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_zip.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_zip.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_zip.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_zip.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_zstd.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_zstd.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_zstd.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_zstd.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/cc -DTIFF_DO_NOT_USE_NON_EXT_ALLOC_FUNCTIONS -D_FILE_OFFSET_BITS=64 -Dtiff_EXPORTS -DALLOW_TIFF_NON_EXT_ALLOC_FUNCTIONS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -fPIC -o CMakeFiles/tiff.dir/tif_unix.c.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_unix.c",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_unix.c",
+  "output": "libtiff/CMakeFiles/tiff.dir/tif_unix.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/libtiff",
+  "command": "/usr/bin/c++ -D_FILE_OFFSET_BITS=64 -Dtiffxx_EXPORTS -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -fPIC -o CMakeFiles/tiffxx.dir/tif_stream.cxx.o -c /workspaces/libtiff-research/libtiff/libtiff/tif_stream.cxx",
+  "file": "/workspaces/libtiff-research/libtiff/libtiff/tif_stream.cxx",
+  "output": "libtiff/CMakeFiles/tiffxx.dir/tif_stream.cxx.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/tools",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/fax2ps.dir/fax2ps.c.o -c /workspaces/libtiff-research/libtiff/tools/fax2ps.c",
+  "file": "/workspaces/libtiff-research/libtiff/tools/fax2ps.c",
+  "output": "tools/CMakeFiles/fax2ps.dir/fax2ps.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/tools",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/fax2tiff.dir/fax2tiff.c.o -c /workspaces/libtiff-research/libtiff/tools/fax2tiff.c",
+  "file": "/workspaces/libtiff-research/libtiff/tools/fax2tiff.c",
+  "output": "tools/CMakeFiles/fax2tiff.dir/fax2tiff.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/tools",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/pal2rgb.dir/pal2rgb.c.o -c /workspaces/libtiff-research/libtiff/tools/pal2rgb.c",
+  "file": "/workspaces/libtiff-research/libtiff/tools/pal2rgb.c",
+  "output": "tools/CMakeFiles/pal2rgb.dir/pal2rgb.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/tools",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/ppm2tiff.dir/ppm2tiff.c.o -c /workspaces/libtiff-research/libtiff/tools/ppm2tiff.c",
+  "file": "/workspaces/libtiff-research/libtiff/tools/ppm2tiff.c",
+  "output": "tools/CMakeFiles/ppm2tiff.dir/ppm2tiff.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/tools",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/raw2tiff.dir/raw2tiff.c.o -c /workspaces/libtiff-research/libtiff/tools/raw2tiff.c",
+  "file": "/workspaces/libtiff-research/libtiff/tools/raw2tiff.c",
+  "output": "tools/CMakeFiles/raw2tiff.dir/raw2tiff.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/tools",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/rgb2ycbcr.dir/rgb2ycbcr.c.o -c /workspaces/libtiff-research/libtiff/tools/rgb2ycbcr.c",
+  "file": "/workspaces/libtiff-research/libtiff/tools/rgb2ycbcr.c",
+  "output": "tools/CMakeFiles/rgb2ycbcr.dir/rgb2ycbcr.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/tools",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/thumbnail.dir/thumbnail.c.o -c /workspaces/libtiff-research/libtiff/tools/thumbnail.c",
+  "file": "/workspaces/libtiff-research/libtiff/tools/thumbnail.c",
+  "output": "tools/CMakeFiles/thumbnail.dir/thumbnail.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/tools",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/tiff2bw.dir/tiff2bw.c.o -c /workspaces/libtiff-research/libtiff/tools/tiff2bw.c",
+  "file": "/workspaces/libtiff-research/libtiff/tools/tiff2bw.c",
+  "output": "tools/CMakeFiles/tiff2bw.dir/tiff2bw.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/tools",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/tiff2pdf.dir/tiff2pdf.c.o -c /workspaces/libtiff-research/libtiff/tools/tiff2pdf.c",
+  "file": "/workspaces/libtiff-research/libtiff/tools/tiff2pdf.c",
+  "output": "tools/CMakeFiles/tiff2pdf.dir/tiff2pdf.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/tools",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/tiff2ps.dir/tiff2ps.c.o -c /workspaces/libtiff-research/libtiff/tools/tiff2ps.c",
+  "file": "/workspaces/libtiff-research/libtiff/tools/tiff2ps.c",
+  "output": "tools/CMakeFiles/tiff2ps.dir/tiff2ps.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/tools",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/tiff2rgba.dir/tiff2rgba.c.o -c /workspaces/libtiff-research/libtiff/tools/tiff2rgba.c",
+  "file": "/workspaces/libtiff-research/libtiff/tools/tiff2rgba.c",
+  "output": "tools/CMakeFiles/tiff2rgba.dir/tiff2rgba.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/tools",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/tiffcmp.dir/tiffcmp.c.o -c /workspaces/libtiff-research/libtiff/tools/tiffcmp.c",
+  "file": "/workspaces/libtiff-research/libtiff/tools/tiffcmp.c",
+  "output": "tools/CMakeFiles/tiffcmp.dir/tiffcmp.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/tools",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/tiffcp.dir/tiffcp.c.o -c /workspaces/libtiff-research/libtiff/tools/tiffcp.c",
+  "file": "/workspaces/libtiff-research/libtiff/tools/tiffcp.c",
+  "output": "tools/CMakeFiles/tiffcp.dir/tiffcp.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/tools",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/tiffcrop.dir/tiffcrop.c.o -c /workspaces/libtiff-research/libtiff/tools/tiffcrop.c",
+  "file": "/workspaces/libtiff-research/libtiff/tools/tiffcrop.c",
+  "output": "tools/CMakeFiles/tiffcrop.dir/tiffcrop.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/tools",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/tiffdither.dir/tiffdither.c.o -c /workspaces/libtiff-research/libtiff/tools/tiffdither.c",
+  "file": "/workspaces/libtiff-research/libtiff/tools/tiffdither.c",
+  "output": "tools/CMakeFiles/tiffdither.dir/tiffdither.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/tools",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/tiffdump.dir/tiffdump.c.o -c /workspaces/libtiff-research/libtiff/tools/tiffdump.c",
+  "file": "/workspaces/libtiff-research/libtiff/tools/tiffdump.c",
+  "output": "tools/CMakeFiles/tiffdump.dir/tiffdump.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/tools",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/tiffinfo.dir/tiffinfo.c.o -c /workspaces/libtiff-research/libtiff/tools/tiffinfo.c",
+  "file": "/workspaces/libtiff-research/libtiff/tools/tiffinfo.c",
+  "output": "tools/CMakeFiles/tiffinfo.dir/tiffinfo.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/tools",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/tiffmedian.dir/tiffmedian.c.o -c /workspaces/libtiff-research/libtiff/tools/tiffmedian.c",
+  "file": "/workspaces/libtiff-research/libtiff/tools/tiffmedian.c",
+  "output": "tools/CMakeFiles/tiffmedian.dir/tiffmedian.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/tools",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/tiffset.dir/tiffset.c.o -c /workspaces/libtiff-research/libtiff/tools/tiffset.c",
+  "file": "/workspaces/libtiff-research/libtiff/tools/tiffset.c",
+  "output": "tools/CMakeFiles/tiffset.dir/tiffset.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/tools",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/tiffsplit.dir/tiffsplit.c.o -c /workspaces/libtiff-research/libtiff/tools/tiffsplit.c",
+  "file": "/workspaces/libtiff-research/libtiff/tools/tiffsplit.c",
+  "output": "tools/CMakeFiles/tiffsplit.dir/tiffsplit.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/tools",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/tiff_mkg3states.dir/mkg3states.c.o -c /workspaces/libtiff-research/libtiff/tools/mkg3states.c",
+  "file": "/workspaces/libtiff-research/libtiff/tools/mkg3states.c",
+  "output": "tools/CMakeFiles/tiff_mkg3states.dir/mkg3states.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/test",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/test_signed_tags.dir/test_signed_tags.c.o -c /workspaces/libtiff-research/libtiff/test/test_signed_tags.c",
+  "file": "/workspaces/libtiff-research/libtiff/test/test_signed_tags.c",
+  "output": "test/CMakeFiles/test_signed_tags.dir/test_signed_tags.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/test",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/ascii_tag.dir/ascii_tag.c.o -c /workspaces/libtiff-research/libtiff/test/ascii_tag.c",
+  "file": "/workspaces/libtiff-research/libtiff/test/ascii_tag.c",
+  "output": "test/CMakeFiles/ascii_tag.dir/ascii_tag.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/test",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/long_tag.dir/long_tag.c.o -c /workspaces/libtiff-research/libtiff/test/long_tag.c",
+  "file": "/workspaces/libtiff-research/libtiff/test/long_tag.c",
+  "output": "test/CMakeFiles/long_tag.dir/long_tag.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/test",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/long_tag.dir/check_tag.c.o -c /workspaces/libtiff-research/libtiff/test/check_tag.c",
+  "file": "/workspaces/libtiff-research/libtiff/test/check_tag.c",
+  "output": "test/CMakeFiles/long_tag.dir/check_tag.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/test",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/short_tag.dir/short_tag.c.o -c /workspaces/libtiff-research/libtiff/test/short_tag.c",
+  "file": "/workspaces/libtiff-research/libtiff/test/short_tag.c",
+  "output": "test/CMakeFiles/short_tag.dir/short_tag.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/test",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/short_tag.dir/check_tag.c.o -c /workspaces/libtiff-research/libtiff/test/check_tag.c",
+  "file": "/workspaces/libtiff-research/libtiff/test/check_tag.c",
+  "output": "test/CMakeFiles/short_tag.dir/check_tag.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/test",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/strip_rw.dir/strip_rw.c.o -c /workspaces/libtiff-research/libtiff/test/strip_rw.c",
+  "file": "/workspaces/libtiff-research/libtiff/test/strip_rw.c",
+  "output": "test/CMakeFiles/strip_rw.dir/strip_rw.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/test",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/strip_rw.dir/strip.c.o -c /workspaces/libtiff-research/libtiff/test/strip.c",
+  "file": "/workspaces/libtiff-research/libtiff/test/strip.c",
+  "output": "test/CMakeFiles/strip_rw.dir/strip.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/test",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/strip_rw.dir/test_arrays.c.o -c /workspaces/libtiff-research/libtiff/test/test_arrays.c",
+  "file": "/workspaces/libtiff-research/libtiff/test/test_arrays.c",
+  "output": "test/CMakeFiles/strip_rw.dir/test_arrays.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/test",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/rewrite.dir/rewrite_tag.c.o -c /workspaces/libtiff-research/libtiff/test/rewrite_tag.c",
+  "file": "/workspaces/libtiff-research/libtiff/test/rewrite_tag.c",
+  "output": "test/CMakeFiles/rewrite.dir/rewrite_tag.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/test",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/custom_dir.dir/custom_dir.c.o -c /workspaces/libtiff-research/libtiff/test/custom_dir.c",
+  "file": "/workspaces/libtiff-research/libtiff/test/custom_dir.c",
+  "output": "test/CMakeFiles/custom_dir.dir/custom_dir.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/test",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/custom_dir_EXIF_231.dir/custom_dir_EXIF_231.c.o -c /workspaces/libtiff-research/libtiff/test/custom_dir_EXIF_231.c",
+  "file": "/workspaces/libtiff-research/libtiff/test/custom_dir_EXIF_231.c",
+  "output": "test/CMakeFiles/custom_dir_EXIF_231.dir/custom_dir_EXIF_231.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/test",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/defer_strile_loading.dir/defer_strile_loading.c.o -c /workspaces/libtiff-research/libtiff/test/defer_strile_loading.c",
+  "file": "/workspaces/libtiff-research/libtiff/test/defer_strile_loading.c",
+  "output": "test/CMakeFiles/defer_strile_loading.dir/defer_strile_loading.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/test",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/defer_strile_writing.dir/defer_strile_writing.c.o -c /workspaces/libtiff-research/libtiff/test/defer_strile_writing.c",
+  "file": "/workspaces/libtiff-research/libtiff/test/defer_strile_writing.c",
+  "output": "test/CMakeFiles/defer_strile_writing.dir/defer_strile_writing.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/test",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/test_directory.dir/test_directory.c.o -c /workspaces/libtiff-research/libtiff/test/test_directory.c",
+  "file": "/workspaces/libtiff-research/libtiff/test/test_directory.c",
+  "output": "test/CMakeFiles/test_directory.dir/test_directory.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/test",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/test_IFD_enlargement.dir/test_IFD_enlargement.c.o -c /workspaces/libtiff-research/libtiff/test/test_IFD_enlargement.c",
+  "file": "/workspaces/libtiff-research/libtiff/test/test_IFD_enlargement.c",
+  "output": "test/CMakeFiles/test_IFD_enlargement.dir/test_IFD_enlargement.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/test",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/testtypes.dir/testtypes.c.o -c /workspaces/libtiff-research/libtiff/test/testtypes.c",
+  "file": "/workspaces/libtiff-research/libtiff/test/testtypes.c",
+  "output": "test/CMakeFiles/testtypes.dir/testtypes.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/test",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/test_open_options.dir/test_open_options.c.o -c /workspaces/libtiff-research/libtiff/test/test_open_options.c",
+  "file": "/workspaces/libtiff-research/libtiff/test/test_open_options.c",
+  "output": "test/CMakeFiles/test_open_options.dir/test_open_options.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/test",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/test_append_to_strip.dir/test_append_to_strip.c.o -c /workspaces/libtiff-research/libtiff/test/test_append_to_strip.c",
+  "file": "/workspaces/libtiff-research/libtiff/test/test_append_to_strip.c",
+  "output": "test/CMakeFiles/test_append_to_strip.dir/test_append_to_strip.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/test",
+  "command": "/usr/bin/cc -DSOURCE_DIR=\\\"/workspaces/libtiff-research/libtiff/test\\\" -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/test_ifd_loop_detection.dir/test_ifd_loop_detection.c.o -c /workspaces/libtiff-research/libtiff/test/test_ifd_loop_detection.c",
+  "file": "/workspaces/libtiff-research/libtiff/test/test_ifd_loop_detection.c",
+  "output": "test/CMakeFiles/test_ifd_loop_detection.dir/test_ifd_loop_detection.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/test",
+  "command": "/usr/bin/cc -DSOURCE_DIR=\\\"/workspaces/libtiff-research/libtiff/test\\\" -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/test_RGBAImage.dir/test_RGBAImage.c.o -c /workspaces/libtiff-research/libtiff/test/test_RGBAImage.c",
+  "file": "/workspaces/libtiff-research/libtiff/test/test_RGBAImage.c",
+  "output": "test/CMakeFiles/test_RGBAImage.dir/test_RGBAImage.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/contrib/addtiffo",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/addtiffo.dir/addtiffo.c.o -c /workspaces/libtiff-research/libtiff/contrib/addtiffo/addtiffo.c",
+  "file": "/workspaces/libtiff-research/libtiff/contrib/addtiffo/addtiffo.c",
+  "output": "contrib/addtiffo/CMakeFiles/addtiffo.dir/addtiffo.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/contrib/addtiffo",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/addtiffo.dir/tif_overview.c.o -c /workspaces/libtiff-research/libtiff/contrib/addtiffo/tif_overview.c",
+  "file": "/workspaces/libtiff-research/libtiff/contrib/addtiffo/tif_overview.c",
+  "output": "contrib/addtiffo/CMakeFiles/addtiffo.dir/tif_overview.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/contrib/addtiffo",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/addtiffo.dir/tif_ovrcache.c.o -c /workspaces/libtiff-research/libtiff/contrib/addtiffo/tif_ovrcache.c",
+  "file": "/workspaces/libtiff-research/libtiff/contrib/addtiffo/tif_ovrcache.c",
+  "output": "contrib/addtiffo/CMakeFiles/addtiffo.dir/tif_ovrcache.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/contrib/dbs",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/tiff-bi.dir/tiff-bi.c.o -c /workspaces/libtiff-research/libtiff/contrib/dbs/tiff-bi.c",
+  "file": "/workspaces/libtiff-research/libtiff/contrib/dbs/tiff-bi.c",
+  "output": "contrib/dbs/CMakeFiles/tiff-bi.dir/tiff-bi.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/contrib/dbs",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/tiff-grayscale.dir/tiff-grayscale.c.o -c /workspaces/libtiff-research/libtiff/contrib/dbs/tiff-grayscale.c",
+  "file": "/workspaces/libtiff-research/libtiff/contrib/dbs/tiff-grayscale.c",
+  "output": "contrib/dbs/CMakeFiles/tiff-grayscale.dir/tiff-grayscale.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/contrib/dbs",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/tiff-palette.dir/tiff-palette.c.o -c /workspaces/libtiff-research/libtiff/contrib/dbs/tiff-palette.c",
+  "file": "/workspaces/libtiff-research/libtiff/contrib/dbs/tiff-palette.c",
+  "output": "contrib/dbs/CMakeFiles/tiff-palette.dir/tiff-palette.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/contrib/dbs",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/tiff-rgb.dir/tiff-rgb.c.o -c /workspaces/libtiff-research/libtiff/contrib/dbs/tiff-rgb.c",
+  "file": "/workspaces/libtiff-research/libtiff/contrib/dbs/tiff-rgb.c",
+  "output": "contrib/dbs/CMakeFiles/tiff-rgb.dir/tiff-rgb.c.o"
+},
+{
+  "directory": "/workspaces/libtiff-research/libtiff/cmake-build/contrib/iptcutil",
+  "command": "/usr/bin/cc -D_FILE_OFFSET_BITS=64 -I/workspaces/libtiff-research/libtiff/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/libtiff -I/workspaces/libtiff-research/libtiff/cmake-build/port -I/workspaces/libtiff-research/libtiff/port  -Wall -Winline -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -fstrict-aliasing -std=gnu99 -o CMakeFiles/iptcutil.dir/iptcutil.c.o -c /workspaces/libtiff-research/libtiff/contrib/iptcutil/iptcutil.c",
+  "file": "/workspaces/libtiff-research/libtiff/contrib/iptcutil/iptcutil.c",
+  "output": "contrib/iptcutil/CMakeFiles/iptcutil.dir/iptcutil.c.o"
+}
+]
